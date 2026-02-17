@@ -13,6 +13,13 @@ const skills = ["Python", "C++", "C#", "Dart", "HTML", "Firebase"];
 
 const projects = [
   {
+    title: "Kişisel Portfolyo Web Sitesi",
+    description:
+      "Bu portfolyo sitesini TypeScript dilini kullanarak geliştirdim. Modern web standartlarına uygun, tamamen responsive ve performans odaklı bir yapıya sahiptir.",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+    link: "https://github.com/meteyilmazbas1/meteyilmazbas-web",
+  },
+  {
     title: "Retro-Style 2D Game",
     description:
       "Ekip arkadaşlarımla birlikte C# ve Unity kullanarak geliştirdiğim, Retro-Style bir oyun.",
