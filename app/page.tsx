@@ -13,25 +13,25 @@ const skills = ["Python", "C++", "C#", "Dart", "HTML", "Firebase"];
 
 const projects = [
   {
-    title: "Portfolyo Web Sitesi",
+    title: "Retro-Style 2D Game",
     description:
-      "Next.js ve Tailwind CSS ile geliştirilmiş kişisel portfolyo sitesi. Modern tasarım, koyu tema ve mobil uyumlu arayüz.",
-    tags: ["Next.js", "Tailwind CSS", "TypeScript"],
-    link: "#",
+      "Ekip arkadaşlarımla birlikte C# ve Unity kullanarak geliştirdiğim, Retro-Style bir oyun.",
+    tags: ["C#", "Unity"],
+    link: "https://github.com/meteyilmazbas1/PCGD-Group-10",
   },
   {
-    title: "E-Ticaret Uygulaması",
+    title: "DSA210-Project",
     description:
-      "Tam kapsamlı bir e-ticaret platformu. Ürün yönetimi, sepet işlemleri ve ödeme entegrasyonu içerir.",
-    tags: ["React", "Node.js", "MongoDB"],
-    link: "#",
+      "Python kullanarak bir data science projesi yaptım.",
+    tags: ["Python"],
+    link: "https://github.com/meteyilmazbas1/DSA210-Project",
   },
   {
-    title: "Görev Yönetim Aracı",
+    title: "CS-310-Project",
     description:
-      "Ekipler için geliştirilmiş proje ve görev takip uygulaması. Gerçek zamanlı işbirliği desteği sunar.",
-    tags: ["Flutter", "Firebase", "Dart"],
-    link: "#",
+      "Ekip arkadaşlarımla birlikte Flutter kullanarak bir mobil aplikasyon yaptık.",
+    tags: ["Flutter", "Dart"],
+    link: "https://github.com/CemKaya1/cs-310-project",
   },
 ];
 
@@ -112,7 +112,7 @@ function HeroSection() {
         <h1 className="mb-4 text-5xl font-extrabold leading-tight tracking-tight text-foreground md:text-7xl">
           Merhaba, ben{" "}
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-600 font-bold">
-            Mete
+            Mete Yılmazbaş
           </span>
         </h1>
         <p className="mb-3 text-xl font-medium text-blue-400 md:text-2xl">
