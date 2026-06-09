@@ -101,6 +101,15 @@ const projectsData = [
     tags: ["Flutter", "Dart"],
     link: "https://github.com/CemKaya1/cs-310-project",
   },
+  {
+    title: { tr: "Dream Games Yazılım Mühendisliği Vaka Çalışması", en: "Dream Games Software Engineering Case Study" },
+    description: {
+      tr: "Unity 6 ve C# ile geliştirilmiş, OOP prensiplerine dayalı seviye tabanlı bir mobil blast puzzle oyunu. JSON tabanlı seviye tasarımıyla 10 seviyeli bir ilerleme sistemi içermektedir.",
+      en: "A level-based mobile blast puzzle game in Unity 6 and C# following OOP principles, featuring a 10-level progression system with JSON-driven level design.",
+    },
+    tags: ["Unity", "C#", "JSON"],
+    link: "https://github.com/meteyilmazbas1/Dream-Games-Case-Study",
+  },
 ];
 
 const skillsList = ["Python", "C++", "C#", "Dart", "HTML", "Firebase"];
